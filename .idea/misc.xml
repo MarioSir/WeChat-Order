@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eurake/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/common-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/common-utils">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://avic-pc:8066/svn/WeChatOrder2/common-utils" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://avic-pc:8066/svn/WeChatOrder2/config" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eurake">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://avic-pc:8066/svn/WeChatOrder2/eurake" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/order">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://avic-pc:8066/svn/WeChatOrder2/order" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://avic-pc:8066/svn/WeChatOrder2/product" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
